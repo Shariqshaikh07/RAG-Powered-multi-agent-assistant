@@ -26,7 +26,7 @@ Example Question and Response:
 Below are screenshots of question asked about the "OneBit" paper and the RAG Assistant's responses:
 
 ### Uploading the "OneBit" Research Paper
-![Example Question and RAG Assistant's Response](Images/assist.png)
+![Example Question and RAG Assistant's Response](Images/Assist.png)
 
 ### Example Question and RAG Assistant's Response
 ![Example Question and RAG Assistant's Response](Images/Response.png)
